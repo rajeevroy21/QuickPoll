@@ -40,3 +40,6 @@ Clone the repo:
 ```bash
 git clone https://github.com/rajeevroy21/QuickPoll.git
 cd QuickPoll
+
+![alt text](image-1.png)
+![alt text](image-2.png)
