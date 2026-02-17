@@ -12,6 +12,16 @@ Users can create polls, share links, and see live vote updates instantly.
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Create Poll Page
+![Create Poll](image-1.png)
+
+### 📊 Live Results Page
+![Live Results](image-2.png)
+
+---
+
 ## ✨ Features
 
 - 🗳 Create polls with multiple options
@@ -40,6 +50,3 @@ Clone the repo:
 ```bash
 git clone https://github.com/rajeevroy21/QuickPoll.git
 cd QuickPoll
-
-![alt text](image-1.png)
-![alt text](image-2.png)
